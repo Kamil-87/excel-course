@@ -90,6 +90,6 @@ module.exports = {
         exclude: /node_modules/,
         use: jsLoaders(),
       },
-    ],  },
+    ]},
 
 }
